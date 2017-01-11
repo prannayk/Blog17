@@ -1,0 +1,66 @@
+[1 of 2] Compiling Main             ( /tmp/stack3555/pandoc-citeproc-0.10.3/Setup.hs, /tmp/stack3555/pandoc-citeproc-0.10.3/.stack-work/dist/x86_64-linux/Cabal-1.24.0.0/setup/Main.o )
+[2 of 2] Compiling StackSetupShim   ( /home/prannayk/.stack/setup-exe-src/setup-shim-mPHDZzAJ.hs, /tmp/stack3555/pandoc-citeproc-0.10.3/.stack-work/dist/x86_64-linux/Cabal-1.24.0.0/setup/StackSetupShim.o )
+Linking /tmp/stack3555/pandoc-citeproc-0.10.3/.stack-work/dist/x86_64-linux/Cabal-1.24.0.0/setup/setup ...
+Configuring pandoc-citeproc-0.10.3...
+Building pandoc-citeproc-0.10.3...
+Preprocessing library pandoc-citeproc-0.10.3...
+[ 1 of 21] Compiling Prelude          ( prelude/Prelude.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Prelude.o )
+[ 2 of 21] Compiling Text.CSL.Util    ( src/Text/CSL/Util.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Util.o )
+[ 3 of 21] Compiling Text.CSL.Style   ( src/Text/CSL/Style.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Style.o )
+[ 4 of 21] Compiling Text.CSL.Reference ( src/Text/CSL/Reference.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Reference.o )
+[ 5 of 21] Compiling Text.CSL.Output.Pandoc ( src/Text/CSL/Output/Pandoc.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Output/Pandoc.o )
+[ 6 of 21] Compiling Text.CSL.Output.Plain ( src/Text/CSL/Output/Plain.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Output/Plain.o )
+[ 7 of 21] Compiling Text.CSL.Eval.Common ( src/Text/CSL/Eval/Common.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Eval/Common.o )
+[ 8 of 21] Compiling Text.CSL.Eval.Output ( src/Text/CSL/Eval/Output.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Eval/Output.o )
+[ 9 of 21] Compiling Text.CSL.Eval.Date ( src/Text/CSL/Eval/Date.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Eval/Date.o )
+[10 of 21] Compiling Text.CSL.Eval.Names ( src/Text/CSL/Eval/Names.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Eval/Names.o )
+[11 of 21] Compiling Text.CSL.Eval    ( src/Text/CSL/Eval.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Eval.o )
+[12 of 21] Compiling Text.CSL.Proc.Disamb ( src/Text/CSL/Proc/Disamb.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Proc/Disamb.o )
+[13 of 21] Compiling Text.CSL.Proc.Collapse ( src/Text/CSL/Proc/Collapse.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Proc/Collapse.o )
+[14 of 21] Compiling Text.CSL.Proc    ( src/Text/CSL/Proc.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Proc.o )
+[15 of 21] Compiling Paths_pandoc_citeproc ( .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/autogen/Paths_pandoc_citeproc.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Paths_pandoc_citeproc.o )
+[16 of 21] Compiling Text.CSL.Data    ( src/Text/CSL/Data.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Data.o )
+[17 of 21] Compiling Text.CSL.Parser  ( src/Text/CSL/Parser.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Parser.o )
+[18 of 21] Compiling Text.CSL.Input.Bibtex ( src/Text/CSL/Input/Bibtex.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Input/Bibtex.o )
+
+src/Text/CSL/Input/Bibtex.hs:940:35: warning: [-Wtype-defaults]
+    • Defaulting the following constraints to type ‘Integer’
+        (Num a0)
+          arising from the literal ‘0’ at src/Text/CSL/Input/Bibtex.hs:940:35
+        (Ord a0)
+          arising from a use of ‘<=’
+          at src/Text/CSL/Input/Bibtex.hs:940:30-35
+        (Read a0)
+          arising from a use of ‘safeRead’
+          at src/Text/CSL/Input/Bibtex.hs:938:21-34
+        (Show a0)
+          arising from a use of ‘show’
+          at src/Text/CSL/Input/Bibtex.hs:940:40-51
+    • In the second argument of ‘(<=)’, namely ‘0’
+      In the expression: n <= 0
+      In a stmt of a pattern guard for
+                     a case alternative:
+        n <= 0
+[19 of 21] Compiling Text.CSL.Input.Bibutils ( src/Text/CSL/Input/Bibutils.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Input/Bibutils.o )
+[20 of 21] Compiling Text.CSL.Pandoc  ( src/Text/CSL/Pandoc.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL/Pandoc.o )
+
+src/Text/CSL/Pandoc.hs:329:41: warning: [-Wname-shadowing]
+    This binding for ‘xs’ shadows the existing binding
+      bound at src/Text/CSL/Pandoc.hs:325:8
+
+src/Text/CSL/Pandoc.hs:331:26: warning: [-Wname-shadowing]
+    This binding for ‘xs’ shadows the existing binding
+      bound at src/Text/CSL/Pandoc.hs:325:8
+[21 of 21] Compiling Text.CSL         ( src/Text/CSL.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/CSL.o )
+Preprocessing executable 'pandoc-citeproc' for pandoc-citeproc-0.10.3...
+[1 of 3] Compiling Prelude          ( prelude/Prelude.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/pandoc-citeproc/pandoc-citeproc-tmp/Prelude.o )
+[2 of 3] Compiling Paths_pandoc_citeproc ( .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/autogen/Paths_pandoc_citeproc.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/pandoc-citeproc/pandoc-citeproc-tmp/Paths_pandoc_citeproc.o )
+[3 of 3] Compiling Main             ( pandoc-citeproc.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/pandoc-citeproc/pandoc-citeproc-tmp/Main.o )
+Linking .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/pandoc-citeproc/pandoc-citeproc ...
+Installing library in
+/home/prannayk/.stack/snapshots/x86_64-linux/nightly-2016-12-31/8.0.1/lib/x86_64-linux-ghc-8.0.1/pandoc-citeproc-0.10.3-ASvxiBAJ390Ns8eroMUjX
+Installing executable(s) in
+/home/prannayk/.stack/snapshots/x86_64-linux/nightly-2016-12-31/8.0.1/bin
+Copying man page to
+/home/prannayk/.stack/snapshots/x86_64-linux/nightly-2016-12-31/8.0.1/share/man/man1
+Registering pandoc-citeproc-0.10.3...

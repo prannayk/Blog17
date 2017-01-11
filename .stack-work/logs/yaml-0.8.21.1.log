@@ -1,0 +1,42 @@
+Configuring yaml-0.8.21.1...
+Building yaml-0.8.21.1...
+Preprocessing library yaml-0.8.21.1...
+[ 1 of 10] Compiling Text.Libyaml     ( Text/Libyaml.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/Libyaml.o )
+[ 2 of 10] Compiling Data.Yaml.Internal ( Data/Yaml/Internal.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Data/Yaml/Internal.o )
+[ 3 of 10] Compiling Data.Yaml        ( Data/Yaml.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Data/Yaml.o )
+
+Data/Yaml.hs:74:1: warning: [-Wdeprecations]
+    Module ‘Data.Aeson.Encode’ is deprecated:
+      Use Data.Aeson or Data.Aeson.Text instead
+
+Data/Yaml.hs:140:88: warning: [-Wdeprecations]
+    In the use of ‘encodeToTextBuilder’
+    (imported from Data.Aeson.Encode):
+    Deprecated: "Use Data.Aeson or Data.Aeson.Text instead"
+[ 4 of 10] Compiling Data.Yaml.Aeson  ( Data/Yaml/Aeson.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Data/Yaml/Aeson.o )
+[ 5 of 10] Compiling Data.Yaml.TH     ( Data/Yaml/TH.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Data/Yaml/TH.o )
+[ 6 of 10] Compiling Data.Yaml.Builder ( Data/Yaml/Builder.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Data/Yaml/Builder.o )
+
+Data/Yaml/Builder.hs:25:1: warning: [-Wdeprecations]
+    Module ‘Data.Aeson.Encode’ is deprecated:
+      Use Data.Aeson or Data.Aeson.Text instead
+
+Data/Yaml/Builder.hs:89:85: warning: [-Wdeprecations]
+    In the use of ‘encodeToTextBuilder’
+    (imported from Data.Aeson.Encode):
+    Deprecated: "Use Data.Aeson or Data.Aeson.Text instead"
+[ 7 of 10] Compiling Data.Yaml.Pretty ( Data/Yaml/Pretty.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Data/Yaml/Pretty.o )
+[ 8 of 10] Compiling Data.Yaml.Include ( Data/Yaml/Include.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Data/Yaml/Include.o )
+[ 9 of 10] Compiling Data.Yaml.Config ( Data/Yaml/Config.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Data/Yaml/Config.o )
+[10 of 10] Compiling Data.Yaml.Parser ( Data/Yaml/Parser.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Data/Yaml/Parser.o )
+Preprocessing executable 'yaml2json' for yaml-0.8.21.1...
+[1 of 1] Compiling Main             ( exe/yaml2json.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/yaml2json/yaml2json-tmp/Main.o )
+Linking .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/yaml2json/yaml2json ...
+Preprocessing executable 'json2yaml' for yaml-0.8.21.1...
+[1 of 1] Compiling Main             ( exe/json2yaml.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/json2yaml/json2yaml-tmp/Main.o )
+Linking .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/json2yaml/json2yaml ...
+Installing library in
+/home/prannayk/.stack/snapshots/x86_64-linux/nightly-2016-12-31/8.0.1/lib/x86_64-linux-ghc-8.0.1/yaml-0.8.21.1-4Rz8IkkRfFWCbhg0obnhkP
+Installing executable(s) in
+/home/prannayk/.stack/snapshots/x86_64-linux/nightly-2016-12-31/8.0.1/bin
+Registering yaml-0.8.21.1...

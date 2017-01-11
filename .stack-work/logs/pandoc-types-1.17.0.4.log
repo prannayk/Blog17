@@ -1,0 +1,13 @@
+Configuring pandoc-types-1.17.0.4...
+Building pandoc-types-1.17.0.4...
+Preprocessing library pandoc-types-1.17.0.4...
+[1 of 7] Compiling Text.Pandoc.Generic ( Text/Pandoc/Generic.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/Pandoc/Generic.o )
+[2 of 7] Compiling Paths_pandoc_types ( .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/autogen/Paths_pandoc_types.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Paths_pandoc_types.o )
+[3 of 7] Compiling Text.Pandoc.Definition ( Text/Pandoc/Definition.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/Pandoc/Definition.o )
+[4 of 7] Compiling Text.Pandoc.Builder ( Text/Pandoc/Builder.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/Pandoc/Builder.o )
+[5 of 7] Compiling Text.Pandoc.Walk ( Text/Pandoc/Walk.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/Pandoc/Walk.o )
+[6 of 7] Compiling Text.Pandoc.JSON ( Text/Pandoc/JSON.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/Pandoc/JSON.o )
+[7 of 7] Compiling Text.Pandoc.Arbitrary ( Text/Pandoc/Arbitrary.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/Pandoc/Arbitrary.o )
+Installing library in
+/home/prannayk/.stack/snapshots/x86_64-linux/nightly-2016-12-31/8.0.1/lib/x86_64-linux-ghc-8.0.1/pandoc-types-1.17.0.4-KAtog0ozsA88PjQymGHIKi
+Registering pandoc-types-1.17.0.4...

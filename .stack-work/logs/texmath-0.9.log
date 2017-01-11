@@ -1,0 +1,26 @@
+Configuring texmath-0.9...
+Building texmath-0.9...
+Preprocessing library texmath-0.9...
+[ 1 of 20] Compiling Paths_texmath    ( .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/autogen/Paths_texmath.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Paths_texmath.o )
+[ 2 of 20] Compiling Text.TeXMath.Unicode.ToASCII ( src/Text/TeXMath/Unicode/ToASCII.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Unicode/ToASCII.o )
+[ 3 of 20] Compiling Text.TeXMath.TeX ( src/Text/TeXMath/TeX.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/TeX.o )
+[ 4 of 20] Compiling Text.TeXMath.Unicode.Fonts ( src/Text/TeXMath/Unicode/Fonts.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Unicode/Fonts.o )
+[ 5 of 20] Compiling Text.TeXMath.Compat ( src/Text/TeXMath/Compat.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Compat.o )
+[ 6 of 20] Compiling Text.TeXMath.Readers.MathML.EntityMap ( src/Text/TeXMath/Readers/MathML/EntityMap.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Readers/MathML/EntityMap.o )
+[ 7 of 20] Compiling Text.TeXMath.Readers.TeX.Macros ( src/Text/TeXMath/Readers/TeX/Macros.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Readers/TeX/Macros.o )
+[ 8 of 20] Compiling Text.TeXMath.Types ( src/Text/TeXMath/Types.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Types.o )
+[ 9 of 20] Compiling Text.TeXMath.Shared ( src/Text/TeXMath/Shared.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Shared.o )
+[10 of 20] Compiling Text.TeXMath.Unicode.ToUnicode ( src/Text/TeXMath/Unicode/ToUnicode.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Unicode/ToUnicode.o )
+[11 of 20] Compiling Text.TeXMath.Unicode.ToTeX ( src/Text/TeXMath/Unicode/ToTeX.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Unicode/ToTeX.o )
+[12 of 20] Compiling Text.TeXMath.Readers.MathML.MMLDict ( src/Text/TeXMath/Readers/MathML/MMLDict.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Readers/MathML/MMLDict.o )
+[13 of 20] Compiling Text.TeXMath.Writers.TeX ( src/Text/TeXMath/Writers/TeX.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Writers/TeX.o )
+[14 of 20] Compiling Text.TeXMath.Writers.Pandoc ( src/Text/TeXMath/Writers/Pandoc.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Writers/Pandoc.o )
+[15 of 20] Compiling Text.TeXMath.Writers.OMML ( src/Text/TeXMath/Writers/OMML.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Writers/OMML.o )
+[16 of 20] Compiling Text.TeXMath.Writers.MathML ( src/Text/TeXMath/Writers/MathML.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Writers/MathML.o )
+[17 of 20] Compiling Text.TeXMath.Readers.OMML ( src/Text/TeXMath/Readers/OMML.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Readers/OMML.o )
+[18 of 20] Compiling Text.TeXMath.Readers.MathML ( src/Text/TeXMath/Readers/MathML.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Readers/MathML.o )
+[19 of 20] Compiling Text.TeXMath.Readers.TeX ( src/Text/TeXMath/Readers/TeX.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Readers/TeX.o )
+[20 of 20] Compiling Text.TeXMath     ( src/Text/TeXMath.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath.o )
+Installing library in
+/home/prannayk/.stack/snapshots/x86_64-linux/nightly-2016-12-31/8.0.1/lib/x86_64-linux-ghc-8.0.1/texmath-0.9-2uyOH91HcKM1orOKSf6Vcy
+Registering texmath-0.9...
