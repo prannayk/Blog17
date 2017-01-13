@@ -1,0 +1,2 @@
+stack exec site build
+cp -r _site/* ../homepage/blog/

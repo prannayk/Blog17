@@ -61,5 +61,5 @@ Network/Wai/Middleware/Gzip.hs:104:74: warning: [-Wname-shadowing]
 [29 of 30] Compiling Network.Wai.Handler.CGI ( Network/Wai/Handler/CGI.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Network/Wai/Handler/CGI.o )
 [30 of 30] Compiling Network.Wai.Handler.SCGI ( Network/Wai/Handler/SCGI.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Network/Wai/Handler/SCGI.o )
 Installing library in
-/home/prannayk/.stack/snapshots/x86_64-linux/nightly-2016-12-31/8.0.1/lib/x86_64-linux-ghc-8.0.1/wai-extra-3.0.19-LO7rygIFxcFCIvEY0h9K1Z
+/home/ubuntu/.stack/snapshots/x86_64-linux/nightly-2016-12-31/8.0.1/lib/x86_64-linux-ghc-8.0.1/wai-extra-3.0.19-LO7rygIFxcFCIvEY0h9K1Z
 Registering wai-extra-3.0.19...

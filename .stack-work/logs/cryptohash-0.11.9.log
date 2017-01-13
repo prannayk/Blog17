@@ -121,5 +121,5 @@ on the commandline: warning: [-Wtrustworthy-safe]
 on the commandline: warning: [-Wtrustworthy-safe]
     ‘Crypto.MAC.HMAC’ is marked as Trustworthy but has been inferred as safe!
 Installing library in
-/home/prannayk/.stack/snapshots/x86_64-linux/nightly-2016-12-31/8.0.1/lib/x86_64-linux-ghc-8.0.1/cryptohash-0.11.9-EnLAt2laaKZ5kBEK5WOto1
+/home/ubuntu/.stack/snapshots/x86_64-linux/nightly-2016-12-31/8.0.1/lib/x86_64-linux-ghc-8.0.1/cryptohash-0.11.9-EnLAt2laaKZ5kBEK5WOto1
 Registering cryptohash-0.11.9...

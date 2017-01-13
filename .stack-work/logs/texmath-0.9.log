@@ -22,5 +22,5 @@ Preprocessing library texmath-0.9...
 [19 of 20] Compiling Text.TeXMath.Readers.TeX ( src/Text/TeXMath/Readers/TeX.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath/Readers/TeX.o )
 [20 of 20] Compiling Text.TeXMath     ( src/Text/TeXMath.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Text/TeXMath.o )
 Installing library in
-/home/prannayk/.stack/snapshots/x86_64-linux/nightly-2016-12-31/8.0.1/lib/x86_64-linux-ghc-8.0.1/texmath-0.9-2uyOH91HcKM1orOKSf6Vcy
+/home/ubuntu/.stack/snapshots/x86_64-linux/nightly-2016-12-31/8.0.1/lib/x86_64-linux-ghc-8.0.1/texmath-0.9-2uyOH91HcKM1orOKSf6Vcy
 Registering texmath-0.9...
