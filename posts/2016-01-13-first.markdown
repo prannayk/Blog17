@@ -1,0 +1,16 @@
+---
+title: First Post
+---
+
+
+# Do not imitate
+
+I shall again begin this blog with the same old how this blog came to be post. It has a become a tradition, I do not know makes me happy or sad but I try to see it through anyway. 
+
+I might not be one of the most imaginative people when I setup yet another blog with Hakyll, Haskell being my only love when it comes to Programming Languages. A little bit of Go and C++ never hurt anyone but never does Haskell ever let you down. Hence here I am. NOw the things I have changed this time is that I am running all of this out a container on my AWS EC2 instance. Much problems arise when you ned up using a not so well known platform and do not have GUI access but installation failed pretty much a lot on this front. Apparently package managers in `Ubuntu 16.04` do not realise that the version of stack they distribute is not only outdated but this leads to a minor hiccup when you setup basic dependencies. But then again, way bette if you try to stick with Cabal. In case you do not wanna die, do not try installing Hakyll with cabal. Pakcage resolution is not acutely in trouble but it is borderline frustrating to use an outdates base system on very good machines and containers. 
+
+Anyway, basic scripts to sync, version control, public repos, and minor hiccups in code, here I am, with my first blog post on what I hope would be one of my more active blogs.
+
+This blog is built only on Hakyll, so anything that is not content in available to use under the MIT License. I will be trying to make sure most of my ideas get published here and are available to the wolrd for deployment and construction. But I would insist that anyone working on anything directly taken from here, does so under the Free Software regime because after all it is only smart to get as many as people as you can to get to work on something.
+
+Also, if unclear, I will use this for my daily ranting anyway. So not every post is for reading, but no post is for the sole purpose to be ignore either. 
