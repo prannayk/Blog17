@@ -11,4 +11,4 @@ The name of the blog might make you think what the hell is going on. So currying
 take a lot of functions together and string them up one after the other to perform a task functionally. Now
 this blog is called Alfred for the help it gives me like Alfred did for the Batman. But it is curried in a lot of ideas.
 
-### If you still do not understand, I don't think you should bother tryin more. You never will. 
+# If you still do not understand, I don't think you should bother tryin more. You never will. 
